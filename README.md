@@ -5,7 +5,7 @@ Lightburn currently (2023-05-28) maps gray values to power linearly. If black ge
 
 This is my attempt at offering a solution by preprocessing images in order to create the intended outcome. The image preprocessing route is much more ham-fisted than doing the adjustments to a laser's power curve, but Lightburn doesn't currently provide plugin support.
 
-I'm not a programmer by trade, I just happen to know enough things about lasers and image processing to slap this together. Please take what I've done and do it better. :) This project is MIT licensed, so feel free to directly take the concepts herein and deploy it in a more meaningful way. I'd appreciate some sort of attribution, but it's not required.
+I'm not a programmer by trade, I just happen to know enough things about lasers and image processing to slap this together. Please take what I've done and do it better. :) This project is GPL v3 licensed, so feel free to directly take the concepts herein and deploy it in a more meaningful way. I'd appreciate some sort of attribution, but it's not required.
 
 If you're feeling inspired, feel free to [buy me a coffee](https://ko-fi.com/aaddrick)
 
